@@ -26,7 +26,7 @@ nav ul li{
 
 div#left{
     background-color: #ffffff;
-    height: 550px;
+    height: 530px;
     display: flex;
     flex-wrap: wrap;
     padding: 70px;
@@ -48,13 +48,9 @@ div#left{
     box-shadow: 2px 2px 13px #bc1823;
 }
 
-p{
-    color: #bc1823;
-    text-align: justify;
-}
-
 #left h1{
     text-transform: capitalize;
+    font-size: 40px;
 }
 
 #left p{
@@ -62,7 +58,9 @@ p{
     margin-top: 30px;
     margin-bottom: 42px;
     line-height: 25px;
-    font-size: 16px;
+    font-size: 21px;
+    color: #bc1823;
+    text-align: justify;
 }
 
 #left a{
